@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Angular 2 Snippets (John Papa)",
+		"Angular CLI",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"FileZilla",
+		"FileZilla SFTP Import",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Docs Light Color Scheme",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Forms Bootstrap Snippets",
+		"Package Control",
+		"PHP Constructors",
+		"PHP Getters and Setters",
+		"Seti_UI",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Terminal",
+		"TypeScript Syntax"
+	]
+}
