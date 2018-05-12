@@ -1,13 +1,12 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 10,
-	"word_wrap": "false",
-  "save_on_focus_lost": true,	
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"margin": 1,
+	"save_on_focus_lost": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme"
+	"theme": "Seti_orig.sublime-theme",
+	"word_wrap": "false"
 }
