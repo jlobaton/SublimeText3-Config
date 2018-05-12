@@ -2,10 +2,18 @@
 Configuracion de SublimeText3 Personalizado
 
 # Como usar
-Bajar estos archivos en la carpeta de usuario
+Descargar toda la carpeta en la carpeta de usuario
 
-* Bajo GNLU/Linux
+* Usando el Sistema Operativo GNLU/Linux, copiar los archivo que estan en la carpeta SublimeText3-Config hacia esta dirección:
 
+´´´
 /home/TU_USUARIO/.config/sublime-text-3/Packages/User
+´´
 
-* Ejecutar la aplicación y esperar que descargue todos los paquetes
+* Ejecutar la SublimeText 
+* Instala las aplicaciones
+
+´´´
+Ctrl + Shift + P
+Package Control: upgrade Package 
+´´´
